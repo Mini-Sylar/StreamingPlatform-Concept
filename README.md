@@ -2,7 +2,7 @@
 
 ## Check it out
 
-**Link will be added when animations are done💀**
+[Streaming Platform Concept](https://streaming-platform-concept.vercel.app/) 👈
 
 ## Screenshots
 
