@@ -1,15 +1,14 @@
 const mobile_nav = document.querySelector(".links-mobile");
 const ham = document.querySelector(".ham");
-const body = document.querySelector("body")
+const body = document.querySelector("body");
 ham.addEventListener("click", () => {
   mobile_nav.classList.toggle("show-links");
   if (mobile_nav.classList.contains("show-links")) {
-    body.style=`
+    body.style = `
         overflow:hidden;
-    `
-  }
-  else{
-       body.style = `
+    `;
+  } else {
+    body.style = `
         overflow:scroll;
     `;
   }
